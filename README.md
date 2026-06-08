@@ -1,6 +1,6 @@
 # Let's Go Vegan 🌿
 
-A responsive, elegant, and modern single-page restaurant landing website built with Bootstrap 5. **Let's Go Veagn** showcases a vibrant, healthy vegan menu accompanied by an intuitive, user-friendly interactive order form.
+A responsive, elegant, and modern single-page restaurant landing website built with Bootstrap 5. **Let's Go Vegan** showcases a vibrant, healthy vegan menu accompanied by an intuitive, user-friendly interactive order form.
 
 🚀 **[View the Live Demo here!](https://dhruvi0515.github.io/Bootstrap/)**
 
